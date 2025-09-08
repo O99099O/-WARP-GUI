@@ -59,20 +59,6 @@ chmod +x warp-gui.sh
 ./warp-gui.sh
 ```
 
----
-
-## 🖼️ Screenshot (Opsional)
-
-Tambahkan screenshot GUI agar lebih menarik.
-Contoh:
-
-```
-[ Gambar Connect / Disconnect ]
-[ Gambar Status Info ]
-```
-
----
-
 ## 📜 Lisensi
 
 Project ini dirilis di bawah lisensi **MIT License**.
