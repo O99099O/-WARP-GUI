@@ -47,8 +47,8 @@ sudo apt install zenity -y
 ### 3. Clone the Repository
 
 ```bash
-git clone https://github.com/USERNAME/warp-zenity-gui.git
-cd warp-zenity-gui
+git clone https://github.com/O99099O/-WARP-GUI.git
+cd -WARP-GUI
 chmod +x warp-gui.sh
 ```
 
@@ -57,21 +57,6 @@ chmod +x warp-gui.sh
 ```bash
 ./warp-gui.sh
 ```
-
----
-
-## 🖼️ Screenshots (Optional)
-
-Adding screenshots will make the project more attractive.
-Example:
-
-```
-[ Connect / Disconnect GUI Screenshot ]
-[ Status Info Screenshot ]
-```
-
----
-
 ## 📜 License
 
 This project is released under the **MIT License**.
