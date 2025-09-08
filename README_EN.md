@@ -7,9 +7,6 @@ This script makes it easier to control WARP via a graphical interface without ty
 
 ---
 
-* EN README : [BUTOON](https://github.com/O99099O/-WARP-GUI/blob/main/README_EN.md)
-
----
 ## ✨ Features
 
 * 🔌 **Connect / Disconnect** WARP with one click
