@@ -48,8 +48,8 @@ sudo apt install zenity -y
 ### 3. Clone Repository
 
 ```bash
-git clone https://github.com/USERNAME/warp-zenity-gui.git
-cd warp-zenity-gui
+git clone https://github.com/O99099O/-WARP-GUI.git
+cd -WARP-GUI
 chmod +x warp-gui.sh
 ```
 
